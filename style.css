@@ -1,0 +1,15 @@
+body { background: grey;}
+.wholepost { display: inline-flexbox; height: 200px; width: 250px; margin-top: 15%; margin-left: 40%; }
+.headpost { background: white; height: 30px; width: 100%; }
+.picpost { margin-bottom: -4px; }
+img { max-width: 100%; height: 100%; margin-bottom: 0px;}
+.botpost { background: whitesmoke; height: 100%;}
+.icons { background: whitesmoke; height: 30px; padding-top: 7px;}
+.likes {background: whitesmoke; padding-top: 10px; font-size: 10px; padding-left: 15px;}
+.comment {font-size: small; padding-top: 20px; padding-left: 14px; padding-right: 7px; font-family: 'Rubik', sans-serif;}
+.fa-solid, .fa-regular {padding-left: 7px; padding-top: 3px;}
+.fa-bookmark { padding-left: 140px;}
+.fa-heart { color: red;}
+.btn { margin-top: 7px; padding-top: -10px; font-size: smaller;}
+.fa-ellipsis-vertical { margin-left:100px ;}
+.title { font-size: 10px; font-weight: bold;}
